@@ -1,0 +1,146 @@
+{
+    "categories": [
+        {
+            "name": "Sıcak İçecekler",
+            "items": [
+                {
+                    "name": "Kahve",
+                    "price": 30
+                },
+                {
+                    "name": "Çay",
+                    "price": 15
+                },
+                {
+                    "name": "Sütlü Kahve",
+                    "price": 40
+                },
+                {
+                    "name": "Türk Kahvesi",
+                    "price": 50
+                },
+                {
+                    "name": "Espresso",
+                    "price": 35
+                },
+                {
+                    "name": "Sütlü Kahve",
+                    "price": 40
+                },
+                {
+                    "name": "Sıcak Çikolata",
+                    "price": 30
+                }
+            ]
+        },
+        {
+            "name": "Soğuk İçecekler",
+            "items": [
+                {
+                    "name": "Su",
+                    "price": 5
+                },
+                {
+                    "name": "Soda",
+                    "price": 12
+                },
+                {
+                    "name": "Ayran",
+                    "price": 8
+                },
+                {
+                    "name": "Coca-Cola",
+                    "price": 25
+                },
+                {
+                    "name": "Fanta",
+                    "price": 25
+                },
+                {
+                    "name": "Sprite",
+                    "price": 25
+                },
+                {
+                    "name": "IceTea",
+                    "price": 20
+                },
+                {
+                    "name": "RedBull",
+                    "price": 30
+                }
+            ]
+        },
+        {
+            "name": "Nargileler",
+            "items": [
+                {
+                    "name": "Karpuzlu Nargile",
+                    "price": 250
+                },
+                {
+                    "name": "Naneli Nargile",
+                    "price": 250
+                },
+                {
+                    "name": "Üzümlü Nargile",
+                    "price": 250
+                },
+                {
+                    "name": "Yabanmersinli Nargile",
+                    "price": 250
+                }
+            ]
+        },
+        {
+            "name": "Çerezler",
+            "items": [
+                {
+                    "name": "Çerez Tabağı",
+                    "price": 40
+                },
+                {
+                    "name": "Kuruyemiş Tabağı",
+                    "price": 80
+                },
+                {
+                    "name": "Çekirdek Tabağı",
+                    "price": 20
+                }
+            ]
+        },
+        {
+            "name": "FastFood",
+            "items": [
+                {
+                    "name": "Hamburger",
+                    "price": 100
+                },
+                {
+                    "name": "Tost",
+                    "price": 50
+                },
+                {
+                    "name": "Kumru",
+                    "price": 70
+                },
+                {
+                    "name": "Hamburger Menü",
+                    "price": 150
+                }
+            ]
+        },
+        {
+            "name": "Dondurmalar",
+            "items": [
+                {
+                    "name": "Kase Dondurma",
+                    "price": 80
+                },
+                {
+                    "name": "Külah Dondurma",
+                    "price": 30
+                }
+            ]
+        }
+    ]
+}
